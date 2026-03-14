@@ -1,10 +1,10 @@
-# Shunmugapandian Portfolio Website 🚀
+# 🚀 Shunmugapandian Portfolio Website
 
 This repository contains the source code for my personal developer portfolio website.
 
 The portfolio showcases my projects, skills, and experience as a Full Stack Developer.
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - React
 - TypeScript
@@ -17,8 +17,9 @@ The portfolio showcases my projects, skills, and experience as a Full Stack Deve
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](./public/images/preview.png)
-## 📌 Features
+![Portfolio Preview](https://raw.githubusercontent.com/shunmugapandian0007/Portfolio/main/public/images/preview.png)
+
+## ✨ Features
 
 - Interactive 3D character animation
 - Smooth scroll animations using GSAP
@@ -29,7 +30,3 @@ The portfolio showcases my projects, skills, and experience as a Full Stack Deve
 ## 📬 Contact
 
 If you'd like to connect with me, feel free to reach out through my portfolio website.
-
-## 📄 License
-
-This project is licensed under the MIT License.
