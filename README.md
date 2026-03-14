@@ -1,16 +1,36 @@
-# My Portfolio Wesbite - Overview 🚀
+# Shunmugapandian Portfolio Website 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+This repository contains the source code for my personal developer portfolio website.
 
-## Instructions 🛠️
+The portfolio showcases my projects, skills, and experience as a Full Stack Developer.
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+## 🛠️ Tech Stack
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+- React
+- TypeScript
+- Three.js
+- GSAP
+- WebGL
+- HTML
+- CSS
+- JavaScript
 
-![Portfolio-Preview](public/images/preview.png)
+## 📸 Portfolio Preview
 
-## License
+![Portfolio Preview](public/images/preview.png)
 
-This project is open source and available under the [MIT License](LICENSE).
+## 📌 Features
+
+- Interactive 3D character animation
+- Smooth scroll animations using GSAP
+- Responsive modern UI
+- Developer portfolio layout
+- Resume download option
+
+## 📬 Contact
+
+If you'd like to connect with me, feel free to reach out through my portfolio website.
+
+## 📄 License
+
+This project is licensed under the MIT License.
