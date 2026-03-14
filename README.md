@@ -16,7 +16,7 @@ The portfolio showcases my projects, skills, and experience as a Full Stack Deve
 - JavaScript
 
 ## 📸 Portfolio Preview
-![Portfolio Preview](https://raw.githubusercontent.com/shunmugapandian0007/Portfolio/main/public/images/Preview.png)
+![Portfolio Preview](https://raw.githubusercontent.com/shunmugapandian0007/Portfolio/main/public/images/preview.png)
 
 ## ✨ Features
 
