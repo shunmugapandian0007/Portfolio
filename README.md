@@ -17,8 +17,7 @@ The portfolio showcases my projects, skills, and experience as a Full Stack Deve
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](public/images/Preview.png)
-## 📌 Features
+![Portfolio Preview](public/images/preview.png)## 📌 Features
 
 - Interactive 3D character animation
 - Smooth scroll animations using GSAP
